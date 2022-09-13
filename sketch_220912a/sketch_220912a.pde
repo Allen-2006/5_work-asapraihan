@@ -1,0 +1,10 @@
+color c = color(150, 62, 270);
+fill(c);
+square(20, 20, 70);
+color h = color(6, 102, 222);
+fill(h);
+circle(40, 45, 20);
+circle(70, 45, 20);
+color z = color(97, 137, 171);
+fill(z);
+rect(30, 70, 50, 15);
